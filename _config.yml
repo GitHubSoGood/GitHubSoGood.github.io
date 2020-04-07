@@ -1,5 +1,5 @@
-title: 老子的博客
-subtitle: 老子博客使用Jekyll创建的
+title: 博客
+subtitle: 老子
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -25,11 +25,11 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
+author: ma pan
+author_bio: 你好 天朝, 我是一名人类. 我喜欢代码和设计. 
 author_email: "hullo@qq.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author_location: 武汉
+author_website_url: "githubsogood.github.io"
 
 author_work_experiences:
             - company_name: Google
